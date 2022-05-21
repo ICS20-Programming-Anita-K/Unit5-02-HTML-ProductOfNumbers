@@ -1,14 +1,12 @@
-// Copyright (c) 2022 Ms Raffin All rights reserved
-//
-// Created by: Ms Raffin
+// Created by: Anita Kay
 // Created on: May 2022
 // This file contains the JS functions for index.html
 
 "use strict"
 
-/**
- * This function displays all numbers from 0 up to the user number
- */
+
+ // This function displays all numbers from 0 up to the user number
+
 function calculateProduct() {
   	// initialize the product to 0
 	let product = 0;
